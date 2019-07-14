@@ -1,0 +1,29 @@
+{
+  "name": "thecodingtrain-nodedrawing",
+  "version": "1.0.0",
+  "description": "This tutorial playlist covers how to use node.js, p5.js, and socket.io (websockets) to create a shared HTML5 canvas across multiple browser sessions.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "sockets",
+    "p5.js",
+    "node",
+    "express"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boolfalse/thecodingtrain-nodedrawing.git"
+  },
+  "author": "Bool False",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boolfalse/thecodingtrain-nodedrawing/issues"
+  },
+  "homepage": "https://github.com/boolfalse/thecodingtrain-nodedrawing#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
